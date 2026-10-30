@@ -8,7 +8,7 @@
 
 > This repository is an adaptation of the original CryptoShield ALM-2 project by Trinadh Koundinya V. Original authorship is acknowledged; this copy is maintained by T Shreyas Reddy.
 
-A React + Flask + SQLite academic project adapted for ALM-2 that implements **all three** ALM-2 projects from the course spec: CryptoVault, SecureTunnel and Sentinel. Built from scratch with a custom emerald/indigo visual theme.
+A React + Flask + SQLite academic project adapted for ALM-2 that implements **all three** ALM-2 projects from the course spec: CryptoVault, SecureTunnel and Sentinel. Uses a custom emerald/indigo visual theme.
 
 ## Folder layout
 
